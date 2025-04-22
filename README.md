@@ -34,7 +34,7 @@ dmime
 dmsynth
 ```
 
-Move exe files from zip folder to your PSO folder
+Move exe files from IVES zip folder to your PSO folder
 ```
 autorun.exe
 online.exe
