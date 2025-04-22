@@ -4,7 +4,7 @@ Notes on creating a WINEPREFIX: If you're not familiar with now Wine and Linux w
 
 For sections that say `/your/path/to/prefix`, this a path you will determine. For example, you could make it `/home/replace_me_with_your_username/pso_pc` or if you prefer XDG you can make it something like `/home/replace_me_with_your_username/.local/share/pso_pc`
 
-Notes on macOS: I do not have much experience with macOS, however I assume that since it's Unix and supports Wine the steps *might* be similar. If you are on macOS and this method works for me you, please feel free to let me know.
+Notes on macOS: I do not have much experience with macOS, however I assume that since it's Unix and supports Wine the steps *might* be similar. If you are on macOS and this method works for you, please feel free to let me know.
 
 Create WINEPREFIX
 ```
