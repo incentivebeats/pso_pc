@@ -1,3 +1,5 @@
+⚠️ macOS Users: This guide is tailored for Linux. Due to macOS’s lack of Vulkan support and limitations in Wine, vkBasalt, dgVoodoo will not work. For macOS, try CrossOver or Wine + MoltenVK and run the game using default rendering settings.
+
 I am currently playing Phantasy Star Online Ver 2 on PC using 4k resolution and high color contrast in Arch Linux. This is every step I took to get my game working.
 
 Notes on creating a WINEPREFIX: If you're not familiar with now Wine and Linux works, think of your WINEPREFIX as a psuedo sandboxed windows layer specific for your game. This way, when you install things like `dsound` it won't interfere with your other Wine prefixes for other games. 
