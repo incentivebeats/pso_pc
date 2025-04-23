@@ -51,13 +51,11 @@ drive_c/Program Files (x86)/SEGA/PhantasyStarOnline/Media/PSO/SoundBGM/22
 
 Copy the contents of Sound/11 to Sound/22
 
-Download `dgvoodooo278.zip`, `PSO_PC_Graphics_Fix.zip` and `PsoWindowSize.7z` from the PSO Peeps Proton Drive or another source if you have one.
+Download `dgvoodooo278.zip`, `PSO_PC_Graphics_Fix.zip` from the PSO Peeps Proton Drive or another source if you have one.
 
 Extract contents of `dgvoodooo278.zip` to `/your/path/to/prefix/drive_c/Program Files(x86)/SEGA/PhantasyStarOnline`
 
 Extract contents of `PSO_PC_Graphics_Fix.zip` to
-
-Extract contents of `PsoWindowSize.7z` to `/your/path/to/prefix/drive_c/Program Files(x86)/SEGA/PhantasyStarOnline` and point the Lutris launcher to this file instead of autorun.exe.
 
 Open dgvoodooCpl.exe and set your Glide and DirectX settings to fit your needs.
 
