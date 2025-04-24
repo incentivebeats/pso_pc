@@ -49,8 +49,6 @@ Download the PSO Music Patch for high quality sound and run the bat file to conv
 drive_c/Program Files (x86)/SEGA/PhantasyStarOnline/Media/PSO/SoundBGM/22
 ```
 
-Copy the contents of Sound/11 to Sound/22
-
 Download `dgvoodooo278.zip`, `PSO_PC_Graphics_Fix.zip` from the PSO Peeps Proton Drive or another source if you have one.
 
 Extract contents of `dgvoodooo278.zip` to `/your/path/to/prefix/drive_c/Program Files(x86)/SEGA/PhantasyStarOnline`
