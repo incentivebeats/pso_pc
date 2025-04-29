@@ -2,7 +2,9 @@
 
 ⚠️ Notes on creating a WINEPREFIX: If you're not familiar with how Wine and Linux works, think of your WINEPREFIX as a psuedo sandboxed windows layer specific for your game. This way, when you install things like `dsound` it won't interfere with your other Wine prefixes for other games. 
 
-⚠️ For sections that say `/your/path/to/prefix`, this a path you will determine. For example, you could make it `/home/replace_me_with_your_username/pso_pc` or if you prefer XDG you can make it something like `/home/replace_me_with_your_username/.local/share/pso_pc`
+⚠️ For sections that say `/your/path/to/prefix`, this a path you will determine. For example, you could make it `/home/replace_me_with_your_username/pso_pc` or if you prefer XDG you can make it something like `/home/replace_me_with_your_username/.local/share/pso_pc`  
+
+⚠️ Minus steps specific for PC Ver 2 (patched exe files), this guide will also work for PSOBB: Ultima and PSOBB: Destiny (for Ephinea, just use Lutris)
 
 Create WINEPREFIX
 ```
