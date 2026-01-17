@@ -180,8 +180,3 @@ Pick **Online/Offline** as needed and enjoy.
 rm -rf "$PREFIX"
 ```
 
----
-
-## 13) Change Log
-
-- 2025‑09‑08: Initial single‑file PSO Ver.2 Linux rulebook (Wine 32‑bit prefix, DirectMusic/DirectSound, optional BGM patch & dgVoodoo2).
