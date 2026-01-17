@@ -52,7 +52,7 @@ Mount your ISO, then run the installer:
 ```bash
 # Example mount
 sudo mkdir -p /mnt/psoiso
-sudo mount -o loop "/path/to/PSO_V2.iso" /mnt/psoiso
+sudo mount -o loop "/path/to/PSO_PC_disc1.iso" /mnt/psoiso
 
 # Run the installer (choose “Normal”)
 WINEPREFIX="$PREFIX" wine "/mnt/psoiso/setup.exe"
@@ -62,10 +62,10 @@ WINEPREFIX="$PREFIX" wine "/mnt/psoiso/setup.exe"
 
 ---
 
-## 5) Audio Stack: DirectMusic + DirectSound
+## 5) DirectMusic + DirectSound + Fonts
 
 ```bash
-WINEPREFIX="$PREFIX" winetricks directmusic dsound
+WINEPREFIX="$PREFIX" winetricks directmusic dsound cjkfonts corefonts
 WINEPREFIX="$PREFIX" winecfg
 ```
 
