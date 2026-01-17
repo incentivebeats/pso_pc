@@ -1,4 +1,4 @@
-# Phantasy Star Online Ver. 2 (PC) — Linux Rulebook (ONE FILE)
+# Phantasy Star Online Ver. 2 (PC) — Linux Rulebook
 
 **Target:** Linux desktop · **Runner:** Wine (Lutris optional) · **Game:** PSO Ver.2 (PC)  
 **Outcome:** Clean, per-game Wine prefix with working DirectMusic/DirectSound, optional high‑quality BGM, and optional dgVoodoo2 graphics fixes.
